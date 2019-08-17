@@ -2,7 +2,7 @@
 title: Home
 banner:
   title: Supercompute
-  subtitle: "![](/images/Scom-white-large@3x.png)"
+  subtitle: "![](/images/Artboard 12.png)"
   show_scroll_button: true
 sections:
 - type: icons
