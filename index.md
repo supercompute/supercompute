@@ -7,10 +7,8 @@ banner:
 sections:
 - type: icons
   template: icons
-  title: Dictum lorem feugiat
-  subtitle: "Nam condimentum ullamcorper quam vitae dictum. Sed consectetur nulla
-    lacus,  \nultricies ornare lacus volutpat at. Nunc rutrum turpis ipsum. Mauris
-    at vestibulum  \nmauris, eu eleifend lorem ipsum dolor sit amet nullam consequat."
+  title: What is Supercompute
+  subtitle: Supercompute is a Smart contracting service built on the Ethereum Network
   section_id: one
   icons:
   - icon: fa-coffee
