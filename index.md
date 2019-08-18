@@ -11,7 +11,7 @@ sections:
   subtitle: Supercompute is a Smart contracting service built on the Ethereum Network
   section_id: one
   icons:
-  - icon: fa-coffee
+  - icon: fa-shield
   - icon: fa-code
   - icon: fa-cloud
   component: icons.html
