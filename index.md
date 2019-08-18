@@ -22,15 +22,14 @@ sections:
   component: highlights.html
 - type: features
   template: features
-  title: Commodo justo interdum
-  subtitle: "Nam condimentum ullamcorper quam vitae dictum. Sed consectetur nulla
-    lacus,  \nultricies ornare lacus volutpat at. Nunc rutrum turpis ipsum."
+  title: Technologies
+  subtitle: Supercompute uses a suite of ethereum technologies. such as
   section_id: three
   features:
-  - title: Facilisis tempus
+  - title: Aragon
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
       non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
-    icon: fa-camera-retro
+    icon: f132
   - title: Lectus magna
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
       non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
