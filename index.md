@@ -55,12 +55,11 @@ sections:
   component: spotlights.html
 cta:
   enabled: true
-  title: Amet magna tempus
-  text: "Ultricies ornare lacus volutpat at. Nunc rutrum turpis ipsum. Mauris at vestibulum
-    \ \nmauris, eu eleifend lorem ipsum dolor sit amet nullam consequat."
+  title: Local Events
+  text: 'Supercompute Live Cast community initiatives   '
   background_style: style1
   actions:
-  - label: Get Started
+  - label: Host your community event here
     url: "/generic"
     is_scrolly: false
     is_primary: true
