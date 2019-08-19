@@ -34,7 +34,7 @@ sections:
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
       non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
     icon: fa-cog
-  - title: Ipsum lorem
+  - title: Trust Wallet
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
       non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
     icon: fa-diamond
