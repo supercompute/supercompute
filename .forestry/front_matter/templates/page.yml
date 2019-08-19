@@ -105,7 +105,6 @@ fields:
   config:
     required: true
 pages:
-- vitae-sed-mattis.md
 - neque-donec-lorem.md
 - magna-tempus-nisl.md
 - justo-aliquet-magna.md
