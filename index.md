@@ -38,7 +38,7 @@ sections:
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
       non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
     icon: fa-diamond
-  - title: Feugiat veroeros
+  - title: Open Collective
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
       non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
     icon: fa-floppy-o
