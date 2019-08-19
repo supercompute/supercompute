@@ -42,11 +42,7 @@ sections:
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
       non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
     icon: fa-floppy-o
-  actions:
-  - label: Learn More
-    url: "/elements"
-    is_scrolly: false
-    is_primary: false
+  actions: []
   component: features.html
 - type: spotlights
   template: spotlights
