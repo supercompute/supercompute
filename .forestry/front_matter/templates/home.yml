@@ -94,5 +94,4 @@ fields:
     default: home
     config:
       required: true
-pages:
-  - index.md
+pages: []

@@ -15,5 +15,4 @@ fields:
     default: elements
     config:
       required: true
-pages:
-  - elements.md
+pages: []

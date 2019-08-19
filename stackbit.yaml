@@ -1,5 +1,13 @@
-stackbitVersion: ~0.2.34
+stackbitVersion: ~0.2.0
+ssgName: jekyll
+ssgVersion: 0.1.12
+buildCommand: ./ssg-build.sh
+publishDir: _site
+staticDir: ''
 uploadDir: images
+dataDir: _data
+pagesDir: ''
+pageLayoutKey: layout
 metadata:
   title: Construct
   description: a multipage theme
@@ -22,6 +30,11 @@ metadata:
       images:
         small: images/demo-red-256x192.png
         large: images/demo-red-1024x768.png
+stackbit_banner:
+  show_banner: true
+  name: Construct
+  create_url: 'https://app.stackbit.com/create?theme=construct'
+  github_url: 'https://github.com/stackbithq/stackbit-theme-construct'
 models:
   config:
     type: config
@@ -486,13 +499,3 @@ models:
         label: Is Primary
         default: false
         description: Gives the button a primary color scheme
-stackbit_banner:
-  show_banner: true
-  name: Construct
-  create_url: 'https://app.stackbit.com/create?theme=construct'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-construct'
-pagesDir: content
-staticDir: static
-ssgName: jekyll
-publishDir: _site
-buildCommand: ./ssg-build.sh
