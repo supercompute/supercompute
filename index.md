@@ -3,7 +3,7 @@ title: Home
 banner:
   title: Welcome to
   subtitle: "![](/images/Artboard 12.png)"
-  show_scroll_button: true
+  show_scroll_button: false
 sections:
 - type: icons
   template: icons
