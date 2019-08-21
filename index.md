@@ -27,7 +27,7 @@ sections:
   section_id: three
   features:
   - title: Project 0x
-    text: Project 0x
+    text: Decentralized Exchange
     icon: f362
   - title: Aragon
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
