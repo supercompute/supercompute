@@ -26,6 +26,9 @@ sections:
   subtitle: Supercompute uses a suite of ethereum technologies. such as
   section_id: three
   features:
+  - title: Project 0x
+    text: Project 0x
+    icon: '"fas fa-exchange-alt"'
   - title: Aragon
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
       non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
