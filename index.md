@@ -34,8 +34,7 @@ sections:
       non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
     icon: f132
   - title: InstaDapp
-    text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
-      non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
+    text: 'Decentralized Finance '
     icon: fa-cog
   - title: Trust Wallet
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
