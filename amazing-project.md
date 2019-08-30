@@ -4,9 +4,9 @@ home:
     weight: 1
     home_img:
       data_position: center right
-      path: ''
+      path: "/images/pic04.jpg"
     enabled: false
-    excerpt: ''
+    excerpt: Community Engagement
   spotlights:
     weight: 1
     enabled: false
