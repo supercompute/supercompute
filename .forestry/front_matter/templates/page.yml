@@ -105,4 +105,5 @@ fields:
   config:
     required: true
 pages:
+- Blog/august-30-2019.md
 - amazing-project.md
