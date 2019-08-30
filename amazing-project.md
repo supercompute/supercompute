@@ -13,9 +13,9 @@ home:
     excerpt: ''
     home_img_path: ''
 layout: page
-title: Amazing project
+title: 'Community Engagement '
 display_header: true
-subtitle: 'Looks like this '
+subtitle: 'incentivising disadvantaged communities to create stronger community bonds. '
 content_img: "/images/pic04.jpg"
 published: false
 
