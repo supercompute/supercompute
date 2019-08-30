@@ -17,6 +17,5 @@ title: What is Instadapp
 display_header: false
 subtitle: Let me tell you
 content_img: ''
-published: false
 
 ---
