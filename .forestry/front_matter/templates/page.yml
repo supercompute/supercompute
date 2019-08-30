@@ -104,5 +104,3 @@ fields:
   default: page
   config:
     required: true
-pages:
-- neque-donec-lorem.md
