@@ -18,6 +18,5 @@ display_header: true
 subtitle: "**Community Engagement**  \nincentivising disadvantaged communities to
   create stronger community bonds."
 content_img: "/images/ryan-tang-8OyZGH43-p4-unsplash.jpg"
-published: false
 
 ---
