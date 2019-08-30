@@ -17,6 +17,5 @@ title: 'Community Engagement '
 display_header: true
 subtitle: 'incentivising disadvantaged communities to create stronger community bonds. '
 content_img: "/images/pic04.jpg"
-published: false
 
 ---
