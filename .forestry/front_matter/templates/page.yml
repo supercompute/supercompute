@@ -104,3 +104,5 @@ fields:
   default: page
   config:
     required: true
+pages:
+- amazing-project.md
