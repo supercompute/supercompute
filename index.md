@@ -27,6 +27,9 @@ sections:
   subtitle: Supercompute uses a suite of ethereum technologies. such as
   section_id: three
   features:
+  - title: Simple Token
+    text: 'Simple Token is a Technology Supercompute Utilizes community reward tokens '
+    icon: ''
   - title: Project 0x
     text: Decentralized Exchange
     icon: f362
