@@ -1,3 +1,12 @@
+---
+home:
+  highlights:
+    weight: '1'
+  spotlights:
+    weight: '2'
+title: test
+
+---
 # Construct
 
 A multipage theme theme for Stackbit. [Live Demo](https://themes.stackbit.com/demos/construct/blue)
