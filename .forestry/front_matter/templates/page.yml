@@ -105,5 +105,4 @@ fields:
   config:
     required: true
 pages:
-- what-is-instadapp.md
 - amazing-project.md
