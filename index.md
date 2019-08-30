@@ -38,7 +38,7 @@ sections:
       and Governance models Aragon offers such a model on the blockchain.   \n  \nYou
       can find Supercompute and its token SCOM [here](https://mainnet.aragon.org/#/supercompute/0x5c7f4b63394395478843edbcbbff6520350de743
       \"Supercompute Aragon\"). More about that later "
-    icon: f132
+    icon: '"fas fa-shield-alt"'
   - title: InstaDapp
     text: 'Decentralized Finance '
     icon: fa-cog
