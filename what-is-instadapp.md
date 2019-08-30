@@ -9,7 +9,7 @@ home:
     excerpt: ''
   spotlights:
     weight: 1
-    enabled: false
+    enabled: true
     excerpt: ''
     home_img_path: ''
 layout: page
