@@ -1,0 +1,62 @@
+---
+label: 'Blog Post '
+hide_body: true
+fields:
+- type: field_group
+  name: home
+  label: home
+  fields:
+  - type: field_group
+    name: highlights
+    label: highlights
+    fields:
+    - type: number
+      name: weight
+      label: weight
+    - type: field_group
+      name: home_img
+      label: home_img
+      fields:
+      - type: text
+        name: data_position
+        label: data_position
+      - type: file
+        name: path
+        label: path
+    - type: boolean
+      name: enabled
+      label: enabled
+    - type: text
+      name: excerpt
+      label: excerpt
+  - type: field_group
+    name: spotlights
+    label: spotlights
+    fields:
+    - type: number
+      name: weight
+      label: weight
+    - type: boolean
+      name: enabled
+      label: enabled
+    - type: text
+      name: excerpt
+      label: excerpt
+    - type: text
+      name: home_img_path
+      label: home_img_path
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: display_header
+  label: display_header
+- type: textarea
+  name: subtitle
+  label: subtitle
+- type: file
+  name: content_img
+  label: content_img
