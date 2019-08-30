@@ -14,7 +14,7 @@ home:
     home_img_path: ''
 layout: page
 title: Amazing project
-display_header: false
+display_header: true
 subtitle: 'Looks like this '
 content_img: "/images/pic04.jpg"
 published: false
