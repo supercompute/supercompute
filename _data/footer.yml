@@ -7,7 +7,7 @@ social_icons:
   url: "#"
   icon: fa-facebook
 - title: LinkedIn
-  url: "#"
+  url: https://www.linkedin.com/in/mariojefferson/
   icon: fa-linkedin
 - title: Github
   url: "#"
@@ -15,8 +15,5 @@ social_icons:
 - title: Email
   url: "#"
   icon: fa-envelope
-copyright: "&copy; Construct. All rights reserved. "
-links:
-- text: Made with Stackbit
-  url: https://www.stackbit.com
-  new_window: true
+copyright: 'All rights reserved. '
+links: []
