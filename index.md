@@ -26,7 +26,7 @@ sections:
 - type: features
   template: features
   title: Technologies
-  subtitle: "**Supercompute** uses a suite of ethereum technologies. \n\nSuch as"
+  subtitle: "**Supercompute** uses a suite of ethereum technologies."
   section_id: three
   features:
   - title: InstaDapp
