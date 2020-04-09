@@ -32,10 +32,10 @@ sections:
       \n\nAfter all it is your money."
     icon: fa-bitcoin
   - title: Aragon
-    text: "Decentralized Autonomous Organizations or **DAO's** Require new transparency
-      and Governance models Aragon offers such a model on the blockchain.   \n  \nYou
-      can find Supercompute and its token SCOM [here](https://mainnet.aragon.org/#/supercompute/0x5c7f4b63394395478843edbcbbff6520350de743
-      \"Supercompute Aragon\"). More about that later "
+    text: |-
+      Decentralized Autonomous Organizations or **DAO's** Require a new level transparency and Governance models Aragon offers such a model on the blockchain.
+
+      You can find more information on **Supercompute** and its token SCOM [here](https://mainnet.aragon.org/#/supercompute/0x5c7f4b63394395478843edbcbbff6520350de743 "Supercompute Aragon"). More about that later
     icon: '"fas fa-shield-alt"'
   - title: Trust Wallet
     text: The Trust Wallet is your wallet of choice for diving into the deep sea of
@@ -45,11 +45,7 @@ sections:
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
       non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
     icon: fa-floppy-o
-  actions:
-  - label: 'What is this '
-    url: https://instadapp.io/
-    is_scrolly: false
-    is_primary: false
+  actions: []
   component: features.html
 - type: spotlights
   template: spotlights
