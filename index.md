@@ -38,8 +38,8 @@ sections:
       \"Supercompute Aragon\"). More about that later "
     icon: '"fas fa-shield-alt"'
   - title: Trust Wallet
-    text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
-      non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
+    text: The Trust Wallet is your wallet of choice for diving into the deep sea of
+      web3 technology.
     icon: fa-diamond
   - title: Open Collective
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
