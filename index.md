@@ -30,7 +30,7 @@ sections:
   - title: InstaDapp
     text: 'Decentralized Finance or #DEFI is the future of stateless banking after
       all it is your money. '
-    icon: fab fa-bitcoin
+    icon: fa-bitcoin
   - title: Project 0x
     text: Decentralized Exchange
     icon: f362
