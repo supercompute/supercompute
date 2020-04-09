@@ -20,7 +20,10 @@ subtitle: "**The Future is calling. Will you answer.**  \nIn times of uncertaint
 content_img: "/images/ryan-tang-8OyZGH43-p4-unsplash.jpg"
 
 ---
-* owning your data
-* providing infrastructure
-* maintaining your own identity
-* building exits from adversarial systems
+Owning your data
+
+Providing infrastructure
+
+Maintaining your own identity
+
+Building exits from adversarial systems
