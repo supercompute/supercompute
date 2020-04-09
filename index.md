@@ -27,9 +27,10 @@ sections:
   subtitle: Supercompute uses a suite of ethereum technologies. such as
   section_id: three
   features:
-  - title: Simple Token
-    text: 'Simple Token is a Technology Supercompute Utilizes community reward tokens '
-    icon: ''
+  - title: InstaDapp
+    text: 'Decentralized Finance or #DEFI is the future of stateless banking after
+      all it is your money. '
+    icon: fa-cog
   - title: Project 0x
     text: Decentralized Exchange
     icon: f362
@@ -39,9 +40,6 @@ sections:
       can find Supercompute and its token SCOM [here](https://mainnet.aragon.org/#/supercompute/0x5c7f4b63394395478843edbcbbff6520350de743
       \"Supercompute Aragon\"). More about that later "
     icon: '"fas fa-shield-alt"'
-  - title: InstaDapp
-    text: 'Decentralized Finance '
-    icon: fa-cog
   - title: Trust Wallet
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
       non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
