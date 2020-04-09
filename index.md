@@ -28,8 +28,9 @@ sections:
   section_id: three
   features:
   - title: InstaDapp
-    text: "Decentralized Finance or **#DEFI** is the future of stateless banking.
-      \n\nAfter all it is your money."
+    text: "Decentralized Finance or **#DEFI** is the future of stateless banking.\n\nNon
+      Custodial Banking.  After all it is your money \n\nTrack it like you want to
+      keep it. "
     icon: fa-bitcoin
   - title: Aragon
     text: Decentralized Autonomous Organizations or **DAO's** Require a new level
