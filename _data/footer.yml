@@ -13,7 +13,8 @@ social_icons:
   url: "#"
   icon: fa-github
 - title: Email
-  url: "#"
+  url: info@supercompute.io
   icon: fa-envelope
 copyright: 'All rights reserved. '
-links: []
+links:
+- new_window: true
