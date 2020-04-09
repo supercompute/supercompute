@@ -34,7 +34,7 @@ sections:
   - title: Aragon
     text: Decentralized Autonomous Organizations or **DAO's** Require a new level
       transparency and Governance models Aragon offers such a model on the blockchain.
-    icon: '"fas fa-shield-alt"'
+    icon: '"fas fa-file-contract"'
   - title: Trust Wallet
     text: The Trust Wallet is your wallet of choice for diving into the deep sea of
       web3 technology.
