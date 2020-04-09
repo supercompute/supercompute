@@ -29,10 +29,6 @@ sections:
   subtitle: "**Supercompute** uses a suite of ethereum technologies."
   section_id: three
   features:
-  - title: Aragon
-    text: Decentralized Autonomous Organizations or **DAO's** Require a new level
-      transparency and Governance models Aragon offers such a model on the blockchain.
-    icon: fa-file-signature
   - title: InstaDapp
     text: "Decentralized Finance or **#DEFI** is the future of stateless banking.\n\nNon
       Custodial Banking.  After all it is your money \n\nTrack it like you want to
@@ -42,6 +38,10 @@ sections:
     text: The Trust Wallet is your wallet of choice for diving into the deep sea of
       web3 technology.
     icon: fa-diamond
+  - title: Aragon
+    text: Decentralized Autonomous Organizations or **DAO's** Require a new level
+      transparency and Governance models Aragon offers such a model on the blockchain.
+    icon: fa-file-signature
   - title: Open Collective
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
       non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
