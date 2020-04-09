@@ -31,9 +31,6 @@ sections:
     text: "Decentralized Finance or **#DEFI** is the future of stateless banking.
       \n\nAfter all it is your money."
     icon: fa-bitcoin
-  - title: Project 0x
-    text: Decentralized Exchange
-    icon: f362
   - title: Aragon
     text: "Decentralized Autonomous Organizations or **DAO's** Require new transparency
       and Governance models Aragon offers such a model on the blockchain.   \n  \nYou
