@@ -45,7 +45,11 @@ sections:
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
       non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
     icon: fa-floppy-o
-  actions: []
+  actions:
+  - label: 'What is this '
+    url: https://instadapp.io/
+    is_scrolly: false
+    is_primary: false
   component: features.html
 - type: spotlights
   template: spotlights
