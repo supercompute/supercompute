@@ -16,9 +16,11 @@ layout: page
 title: Blog
 display_header: true
 subtitle: "**The Future is calling. Will you answer.**  \nIn times of uncertainty
-  knowing how to address the needs of your community are essential. \n\n* owning your
-  data\n* providing infrastructure\n* maintaining your own identity\n* building exits
-  from adversarial systems"
+  knowing how to address the needs of your community are essential. "
 content_img: "/images/ryan-tang-8OyZGH43-p4-unsplash.jpg"
 
 ---
+* owning your data
+* providing infrastructure
+* maintaining your own identity
+* building exits from adversarial systems
