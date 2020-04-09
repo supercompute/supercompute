@@ -8,8 +8,10 @@ sections:
 - type: icons
   template: icons
   title: What is Supercompute
-  subtitle: "Supercompute is a Smart contracting service built on the Ethereum Technology.
-    \  \n  \nAs such we are a local startup Based in Los Angeles California"
+  subtitle: |-
+    Supercompute is a Smart contracting service built on the Ethereum Technology.
+
+    We are a local startup Based in Los Angeles California
   section_id: one
   icons:
   - icon: fa-shield
