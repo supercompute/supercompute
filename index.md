@@ -41,8 +41,9 @@ sections:
       want to keep it."
     icon: fa-bitcoin
   - title: Trust Wallet
-    text: The Trust Wallet is your wallet of choice for diving into the deep sea of
-      web3 technology.
+    text: "The Trust Wallet is your wallet of choice for diving into the deep sea
+      of web3 technology.\n\nLearn to \n\n* Sign Transactions\n* Secure your Account\n*
+      Best Practices "
     icon: fa-diamond
   - title: Open Collective
     text: "Making our community sustainable  \nCollect and spend money transparently"
