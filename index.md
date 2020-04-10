@@ -15,7 +15,7 @@ sections:
   section_id: one
   icons:
   - icon: fa-shield
-  - icon: fa-ethereum
+  - icon: fa-gem
   - icon: fa-code
   component: icons.html
 - type: highlights
