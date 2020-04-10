@@ -41,7 +41,7 @@ sections:
   - title: Aragon
     text: Decentralized Autonomous Organizations or **DAO's** Require a new level
       transparency and Governance models Aragon offers such a model on the blockchain.
-    icon: fa-file-signature
+    icon: fa-bitcoin
   - title: Open Collective
     text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
       non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
