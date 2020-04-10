@@ -44,10 +44,7 @@ sections:
       web3 technology.
     icon: fa-diamond
   - title: Open Collective
-    text: |-
-      Making our community sustainable
-
-      #### Collect and spend money transparently
+    text: "Making our community sustainable  \nCollect and spend money transparently"
     icon: fa-floppy-o
   actions: []
   component: features.html
