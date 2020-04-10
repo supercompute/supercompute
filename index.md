@@ -26,7 +26,8 @@ sections:
 - type: features
   template: features
   title: Technologies
-  subtitle: "**Supercompute** uses a suite of ethereum technologies."
+  subtitle: "**Supercompute** uses a suite of ethereum technologies. \n\n    <i class=\"fab
+    fa-ethereum\"></i>"
   section_id: three
   features:
   - title: Aragon
