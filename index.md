@@ -14,10 +14,9 @@ sections:
     We are a local startup Based in Los Angeles California
   section_id: one
   icons:
-  - icon: fa-ethereum
   - icon: fa-shield
+  - icon: fa-ethereum
   - icon: fa-code
-  - icon: fa-cloud
   component: icons.html
 - type: highlights
   template: highlights
