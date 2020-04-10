@@ -33,7 +33,7 @@ sections:
     text: Decentralized Autonomous Organizations or **DAO's** Require a new level
       transparency and Governance models Aragon offers such a model on the blockchain.
       If you are going to do governance do it right
-    icon: fa-bitcoin
+    icon: fa-file-signature
   - title: InstaDapp
     text: "Decentralized Finance or **#DEFI** is the future of stateless banking.\n\nNon
       Custodial Banking.  After all it is your money \n\nTrack it like you want to
