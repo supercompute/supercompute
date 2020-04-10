@@ -44,8 +44,10 @@ sections:
       web3 technology.
     icon: fa-diamond
   - title: Open Collective
-    text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
-      non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
+    text: |-
+      Making our community sustainable
+
+      #### Collect and spend money transparently
     icon: fa-floppy-o
   actions: []
   component: features.html
