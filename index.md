@@ -14,6 +14,7 @@ sections:
     We are a local startup Based in Los Angeles California
   section_id: one
   icons:
+  - icon: fa-ethereum
   - icon: fa-shield
   - icon: fa-code
   - icon: fa-cloud
@@ -26,8 +27,7 @@ sections:
 - type: features
   template: features
   title: Technologies
-  subtitle: "**Supercompute** uses a suite of ethereum technologies. \n\n    <i class=\"fab
-    fa-ethereum\"></i>"
+  subtitle: "**Supercompute** uses a suite of ethereum technologies."
   section_id: three
   features:
   - title: Aragon
