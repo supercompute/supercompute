@@ -57,13 +57,13 @@ sections:
 cta:
   enabled: true
   title: Local Events
-  text: 'Supercompute Live Cast community initiatives   '
+  text: "Supercompute   \nZoom call community initiatives"
   background_style: style1
   actions:
-  - label: Host your community event here
-    url: "/generic"
+  - label: Host your event here
+    url: https://t.me./supercompute
     is_scrolly: false
-    is_primary: true
+    is_primary: false
 layout: home
 
 ---
